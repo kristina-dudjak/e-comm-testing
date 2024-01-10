@@ -1,0 +1,9 @@
+{
+  "user": {
+    "firstName": "Luke",
+    "lastName": "Simmons",
+    "email": "luke.simmons@example.com",
+    "password": "password",
+    "telephone": "(896) 968-1635"
+  }
+}
